@@ -14,8 +14,8 @@
 
 ## 以下の設計内容を把握する
 
-- [要件定義](/documents/REQUIREMENT_DEFINITION.md)
-- [ワイヤーフレーム](/documents/WIREFRAME.md)
-- [テーブル定義書/ER図](/documents/TABLE.md)
+- [要件定義](/docs/REQUIREMENT_DEFINITION.md)
+- [ワイヤーフレーム](/docs/WIREFRAME.md)
+- [テーブル定義書/ER図](/docs/TABLE.md)
 
 ※ こちらで用意した設計内容の中に不備などがあった際はご連絡ください。

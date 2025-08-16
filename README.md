@@ -1,5 +1,8 @@
 # ドキュメント
 
+開発にあたりこちらの README を必ずご一読ください。\
+開発に関する流れや方法などは全てこちらに記載されています。
+
 ## 開発フロー
 
 ### 1. Issue の作成
@@ -9,7 +12,8 @@
 3. Projects で GitHub Projects のタスク管理と紐付けを行なってください。
 4. Issue は必ずミーティングで、いつ対応するのかをチームで決めます。
 
-*`備考`*
+**備考**
+
 - バグや表示崩れについては、Bug report で作成してください。
   - 実装途中にバグを発見した際は作成してください。
   - 必要であれば、ミーティングで修正対応について議論いたします。
@@ -75,6 +79,7 @@ package に更新がないか、確認するため、 `npm install` コマンド
 ## 使用技術
 
 ### フロントエンド
+
 - [HTML](https://developer.mozilla.org/ja/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/ja/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/ja/docs/Web/JavaScript)
@@ -83,12 +88,15 @@ package に更新がないか、確認するため、 `npm install` コマンド
 - [Next.js](https://nextjs.org)
 
 ### バックエンド
+
 - [Supabase](https://supabase.com)
 
 ### インフラ
+
 - [Vercel](https://vercel.com)
 
 ### ツール
+
 - [GitHub](https://github.co.jp)
 
 ## 言語 / パッケージ
